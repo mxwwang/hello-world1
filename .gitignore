@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store #xw: MAC
+*.csv #xw: not track any csv files
 
 # C extensions
 *.so
